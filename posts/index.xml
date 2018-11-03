@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Roempoen</title>
+    <link>http://roempoen.com/posts/</link>
+    <description>Recent content in Posts on Roempoen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://roempoen.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perintah Dasar Linux</title>
+      <link>http://roempoen.com/posts/perintah-dasar-linux/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://roempoen.com/posts/perintah-dasar-linux/</guid>
+      <description> ls  ls  cd mv man mkdir rmdir touch rm locate clear  </description>
+    </item>
+    
+    <item>
+      <title>Rania</title>
+      <link>http://roempoen.com/posts/rania/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://roempoen.com/posts/rania/</guid>
+      <description>Rania&amp;hellip; Sebelum kamu dilahirkan di dunia ini, kamu sudah sangat dicintai, didoakan agar bisa segera menjalani kehidupan bersama kami, bapak dan ibu.
+I love you </description>
+    </item>
+    
+  </channel>
+</rss>
