@@ -6,19 +6,10 @@
     <description>Recent content on Roempoen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://roempoen.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Perintah Dasar Linux</title>
-      <link>http://roempoen.com/posts/perintah-dasar-linux/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://roempoen.com/posts/perintah-dasar-linux/</guid>
-      <description> ls  ls  cd mv man mkdir rmdir touch rm locate clear  </description>
-    </item>
     
     <item>
       <title>Rania</title>
@@ -28,6 +19,15 @@
       <guid>http://roempoen.com/posts/rania/</guid>
       <description>Rania&amp;hellip; Sebelum kamu dilahirkan di dunia ini, kamu sudah sangat dicintai, didoakan agar bisa segera menjalani kehidupan bersama kami, bapak dan ibu.
 I love you </description>
+    </item>
+    
+    <item>
+      <title>Perintah Dasar Linux</title>
+      <link>http://roempoen.com/posts/perintah-dasar-linux/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://roempoen.com/posts/perintah-dasar-linux/</guid>
+      <description> ls  ls  cd mv man mkdir rmdir touch rm locate clear  </description>
     </item>
     
     <item>

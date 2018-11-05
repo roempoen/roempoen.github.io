@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips on Roempoen</title>
+    <link>http://roempoen.com/tags/tips/</link>
+    <description>Recent content in Tips on Roempoen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Sep 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://roempoen.com/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perintah Dasar Linux</title>
+      <link>http://roempoen.com/posts/perintah-dasar-linux/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://roempoen.com/posts/perintah-dasar-linux/</guid>
+      <description> ls  ls  cd mv man mkdir rmdir touch rm locate clear  </description>
+    </item>
+    
+  </channel>
+</rss>
