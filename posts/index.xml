@@ -27,7 +27,8 @@ I love you </description>
       <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://roempoen.com/posts/perintah-dasar-linux/</guid>
-      <description> ls  ls  cd mv man mkdir rmdir touch rm locate clear  </description>
+      <description>ls
+$ ls  cd mv man mkdir rmdir touch rm locate clear  </description>
     </item>
     
   </channel>
